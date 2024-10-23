@@ -3,7 +3,7 @@
 ## Project Description
  Developed a data warehouse solution with ETL processes, making data available
  to help investors analyze stock market data. Integrated Tableau for interactive visualizations, providing
- users with insights to optimize their investment strategies.4
+ users with insights to optimize their investment strategies.
 ## Responsibilities
  Extracting and cleaning data from public APIs, modeling a data warehouse using a
  constellation schema, loading data into the database using SSIS, creating visualizations in Tableau.
